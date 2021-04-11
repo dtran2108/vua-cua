@@ -19,7 +19,7 @@ export const IntroBanner = () => {
           style={{ marginTop: "10px" }}
         >
           <Trolley className="flex-grow-1" width="30px" height="30px" />
-          <h2 className="flex-grow-1" style={{ margin: "0 16px" }}>9,999,000</h2>
+          <h2 className="flex-grow-1 price-tag" style={{ margin: "0 16px" }}>9,999,000</h2>
           <UserDropdown />
         </div>
       </div>
