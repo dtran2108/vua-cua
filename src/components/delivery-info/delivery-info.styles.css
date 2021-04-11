@@ -1,0 +1,32 @@
+h1 {
+  font-size: 1.5em;
+  margin: 0px;
+  color: #bd1e2d;
+  font-weight: bold;
+  width: fit-content;
+}
+
+p {
+  font-size: 0.7em;
+  margin: 0px;
+  font-weight: bold;
+  width: fit-content;
+}
+
+.container {
+  width: fit-content;
+  margin: 0px;
+}
+
+.phone-col {
+  width: fit-content;
+}
+
+.margin-right {
+  margin-right: 16px;
+}
+
+.phone-wrap {
+  width: 50px;
+  height: 50px;
+}

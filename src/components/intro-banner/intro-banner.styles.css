@@ -1,0 +1,12 @@
+.intro-wrapper {
+  margin-top: 16px;
+  width: 80%;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 0px;
+  color: #bd1e2d;
+  font-weight: bold;
+  width: fit-content;
+}
