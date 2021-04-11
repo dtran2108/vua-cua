@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vua-cua/static/css/main.86a686a1.chunk.css",
+    "main.js": "/vua-cua/static/js/main.96abd621.chunk.js",
+    "main.js.map": "/vua-cua/static/js/main.96abd621.chunk.js.map",
+    "runtime-main.js": "/vua-cua/static/js/runtime-main.400ab65d.js",
+    "runtime-main.js.map": "/vua-cua/static/js/runtime-main.400ab65d.js.map",
+    "static/js/2.f0ddfb84.chunk.js": "/vua-cua/static/js/2.f0ddfb84.chunk.js",
+    "static/js/2.f0ddfb84.chunk.js.map": "/vua-cua/static/js/2.f0ddfb84.chunk.js.map",
+    "static/js/3.f1c25064.chunk.js": "/vua-cua/static/js/3.f1c25064.chunk.js",
+    "static/js/3.f1c25064.chunk.js.map": "/vua-cua/static/js/3.f1c25064.chunk.js.map",
+    "index.html": "/vua-cua/index.html",
+    "static/css/main.86a686a1.chunk.css.map": "/vua-cua/static/css/main.86a686a1.chunk.css.map",
+    "static/js/2.f0ddfb84.chunk.js.LICENSE.txt": "/vua-cua/static/js/2.f0ddfb84.chunk.js.LICENSE.txt",
+    "static/media/crab.de123da5.png": "/vua-cua/static/media/crab.de123da5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.400ab65d.js",
+    "static/js/2.f0ddfb84.chunk.js",
+    "static/css/main.86a686a1.chunk.css",
+    "static/js/main.96abd621.chunk.js"
+  ]
+}
