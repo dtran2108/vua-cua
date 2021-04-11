@@ -1,8 +1,9 @@
 import React from "react";
 import { DeliveryInfo } from "../delivery-info/delivery-info.component";
 import { SearchBox } from "../search-box/search-box.component";
+import { UserDropdown } from '../user-dropdown/user-dropdown.component';
 
-import { Trolley, User } from "../../static/svg";
+import { Trolley } from "../../static/svg";
 import logo from "../../static/png/crab.png";
 import "./intro-banner.styles.css";
 
@@ -19,7 +20,7 @@ export const IntroBanner = () => {
         >
           <Trolley className="flex-grow-1" width="30px" height="30px" />
           <h2 className="flex-grow-1" style={{ margin: "0 16px" }}>9,999,000</h2>
-          <User className="flex-grow-1" width="30px" height="30px" />
+          <UserDropdown />
         </div>
       </div>
     </div>
