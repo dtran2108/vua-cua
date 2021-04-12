@@ -1,0 +1,12 @@
+.title {
+  font-family: 'Aachenb';
+  text-transform: uppercase;
+  font-size: 3em;
+  margin-bottom: 72px;
+}
+
+.chain-container {
+  margin-top: 32px;
+  margin-bottom: 100px;
+  width: 100%;
+}

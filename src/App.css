@@ -1,3 +1,13 @@
+@font-face {
+  font-family: "Aachenb";
+  src: url("static/fonts/aachenb.ttf");
+}
+
+@font-face {
+  font-family: "Poppins Medium";
+  src: url("static/fonts/poppins-medium.ttf");
+}
+
 .App {
   text-align: center;
 }
