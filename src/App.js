@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+
+import Divider from '@material-ui/core/Divider';
+
 import { IntroBanner } from "./components/intro-banner/intro-banner.component";
 import { Navigation } from "./components/navigation/navigation.component";
 import { ChainContainer } from './containers/chain-container/chain-container.component';
@@ -14,6 +17,7 @@ class App extends Component {
         <Navigation />
         <img src={homeBanner} alt="vua cua banner" width="100%" height="auto" />
         <ChainContainer />
+        <Divider />
       </div>
     );
   }
