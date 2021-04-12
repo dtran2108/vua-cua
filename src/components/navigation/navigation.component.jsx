@@ -8,7 +8,7 @@ export const Navigation = () => {
   return (
     <div className="d-flex justify-content-between align-items-center navigation-wrap">
       <div className="d-flex">
-        <Address width="40px" height="40px" style={{ marginRight: '10px' }}/>
+        <Address width="35px" height="40px" style={{ marginRight: '10px' }} fill="#bd1e2d"/>
         <AddressSearchBox />
       </div>
       <h2 className="navigate-item">Thực đơn</h2>

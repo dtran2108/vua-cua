@@ -1,7 +1,7 @@
 import React from "react";
-import { User } from "../../static/svg";
 import { ContentButton } from '../dropdown-content-btn/dropdown-content-btn.component';
 
+import userProfile from "../../static/png/user-profile.png";
 import "./user-dropdown.styles.css";
 
 export const UserDropdown = () => {
@@ -11,7 +11,9 @@ export const UserDropdown = () => {
 
   return (
     <div className="dropdown">
-      <User
+      <img
+        src={userProfile}
+        alt="user profile"
         style={{ cursor: "pointer" }}
         onMouseEnter={toggleDropdown}
         className="flex-grow-1"
