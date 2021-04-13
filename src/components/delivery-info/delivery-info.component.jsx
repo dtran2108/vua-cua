@@ -13,7 +13,7 @@ export const DeliveryInfo = () => {
         </div>
 
         <div>
-          <h1>1900 6333 87</h1>
+          <h1 className="phone-num">1900 6333 87</h1>
           <p>Nhà hàng: 10:00 - 23:00 (T2 - Chủ Nhật)</p>
           <p>Giao hàng tận nơi: 10:00 - 21:30 (T2 - Chủ Nhật)</p>
         </div>
