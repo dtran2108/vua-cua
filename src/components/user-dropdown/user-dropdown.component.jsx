@@ -22,7 +22,7 @@ export const UserDropdown = () => {
       />
       <div
         id="userDropdown"
-        class="dropdown-content"
+        className="dropdown-content"
         onMouseLeave={toggleDropdown}
       >
         <ContentButton name="Đăng nhập" fontColor="black" backgroundColor="#ffad00" />

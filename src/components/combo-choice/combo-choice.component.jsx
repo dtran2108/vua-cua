@@ -16,7 +16,7 @@ export const ComboChoice = (props) => {
         </div>
         <div className="col" style={{ width: "70%" }}>
           <div className="d-flex justify-content-between align-items-center">
-            <h1 className="combo-name">{props.name}</h1>
+            <h1 className="combo-name"><b>{props.name}</b></h1>
             <div className="d-flex flex-column justify-content-end">
               <h1 className="combo-price">{props.price}</h1>
               {props.discount && (

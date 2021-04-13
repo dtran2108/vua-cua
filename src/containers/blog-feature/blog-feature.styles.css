@@ -1,0 +1,34 @@
+.blog-wrap {
+  padding: 72px 0;
+  background-color: #f0ede6;
+  width: 100%
+}
+
+.b-sub {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.b-title {
+  font-family: 'Aachenb';
+  font-size: 2.7em;
+  text-transform: uppercase;
+  color: #bd1e2d;
+}
+
+.video-container {
+  margin: 12px 24px 12px 0;
+}
+
+.dish-item {
+  margin-bottom: 12px;
+}
+
+.dish-w {
+  margin-right: 12px;
+}
+
+.dish-c {
+  text-align: justify;
+}
