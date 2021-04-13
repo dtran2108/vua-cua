@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vua-cua/static/css/main.0c207ae0.chunk.css",
-    "main.js": "/vua-cua/static/js/main.a67cf58a.chunk.js",
-    "main.js.map": "/vua-cua/static/js/main.a67cf58a.chunk.js.map",
-    "runtime-main.js": "/vua-cua/static/js/runtime-main.d0bf339d.js",
-    "runtime-main.js.map": "/vua-cua/static/js/runtime-main.d0bf339d.js.map",
-    "static/js/2.e4aa277e.chunk.js": "/vua-cua/static/js/2.e4aa277e.chunk.js",
-    "static/js/2.e4aa277e.chunk.js.map": "/vua-cua/static/js/2.e4aa277e.chunk.js.map",
-    "static/js/3.e395cab2.chunk.js": "/vua-cua/static/js/3.e395cab2.chunk.js",
-    "static/js/3.e395cab2.chunk.js.map": "/vua-cua/static/js/3.e395cab2.chunk.js.map",
+    "main.css": "/vua-cua/static/css/main.d87872b4.chunk.css",
+    "main.js": "/vua-cua/static/js/main.37b3daa5.chunk.js",
+    "main.js.map": "/vua-cua/static/js/main.37b3daa5.chunk.js.map",
+    "runtime-main.js": "/vua-cua/static/js/runtime-main.eb643377.js",
+    "runtime-main.js.map": "/vua-cua/static/js/runtime-main.eb643377.js.map",
+    "static/js/2.5bce4f5c.chunk.js": "/vua-cua/static/js/2.5bce4f5c.chunk.js",
+    "static/js/2.5bce4f5c.chunk.js.map": "/vua-cua/static/js/2.5bce4f5c.chunk.js.map",
+    "static/js/3.a93190f9.chunk.js": "/vua-cua/static/js/3.a93190f9.chunk.js",
+    "static/js/3.a93190f9.chunk.js.map": "/vua-cua/static/js/3.a93190f9.chunk.js.map",
     "index.html": "/vua-cua/index.html",
-    "static/css/main.0c207ae0.chunk.css.map": "/vua-cua/static/css/main.0c207ae0.chunk.css.map",
-    "static/js/2.e4aa277e.chunk.js.LICENSE.txt": "/vua-cua/static/js/2.e4aa277e.chunk.js.LICENSE.txt",
+    "static/css/main.d87872b4.chunk.css.map": "/vua-cua/static/css/main.d87872b4.chunk.css.map",
+    "static/js/2.5bce4f5c.chunk.js.LICENSE.txt": "/vua-cua/static/js/2.5bce4f5c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/vua-cua/static/media/poppins-medium.38c56fb8.ttf",
     "static/media/chain1.a6e27cdd.png": "/vua-cua/static/media/chain1.a6e27cdd.png",
     "static/media/chain2.da5aa28e.png": "/vua-cua/static/media/chain2.da5aa28e.png",
@@ -21,9 +21,9 @@
     "static/media/home-banner.93be33fa.png": "/vua-cua/static/media/home-banner.93be33fa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0bf339d.js",
-    "static/js/2.e4aa277e.chunk.js",
-    "static/css/main.0c207ae0.chunk.css",
-    "static/js/main.a67cf58a.chunk.js"
+    "static/js/runtime-main.eb643377.js",
+    "static/js/2.5bce4f5c.chunk.js",
+    "static/css/main.d87872b4.chunk.css",
+    "static/js/main.37b3daa5.chunk.js"
   ]
 }
