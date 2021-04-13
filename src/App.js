@@ -6,6 +6,8 @@ import { ChainContainer } from "./containers/chain-container/chain-container.com
 import { TopChoiceContainer } from "./containers/top-choice-container/top-choice-container.component";
 import { GuestCarousel } from "./containers/guest-carousel/guest-carousel.component";
 import { BlogFeature } from "./containers/blog-feature/blog-feature.component";
+import { RestaurantTour } from "./containers/restaurant-tour/restaurant-tour.component";
+import { ConnectContainer } from "./containers/connect-container/connect-container.component";
 
 import homeBanner from "./static/png/home-banner.png";
 import "./App.css";
@@ -22,6 +24,8 @@ class App extends Component {
         <TopChoiceContainer />
         {/* <GuestCarousel /> */}
         <BlogFeature />
+        <RestaurantTour/>
+        <ConnectContainer />
       </div>
     );
   }
