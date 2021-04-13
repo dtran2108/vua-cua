@@ -8,6 +8,7 @@ import { GuestCarousel } from "./containers/guest-carousel/guest-carousel.compon
 import { BlogFeature } from "./containers/blog-feature/blog-feature.component";
 import { RestaurantTour } from "./containers/restaurant-tour/restaurant-tour.component";
 import { ConnectContainer } from "./containers/connect-container/connect-container.component";
+import { Footer } from './containers/footer/footer.component';
 
 import homeBanner from "./static/png/home-banner.png";
 import "./App.css";
@@ -26,6 +27,7 @@ class App extends Component {
         <BlogFeature />
         <RestaurantTour/>
         <ConnectContainer />
+        <Footer/>
       </div>
     );
   }
